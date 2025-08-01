@@ -1,6 +1,6 @@
-# Project why_http
+# Basic ai agent 
 
-One Paragraph of project description goes here
+Basic ai agent written in Go, feel free to use it for running gemini in the cli
 
 ## Getting Started
 
